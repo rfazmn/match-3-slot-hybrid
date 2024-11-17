@@ -9,4 +9,5 @@ Supported Features:\
 -Camera aligns dynamically to the grid\
 -Compatible with most of the simulator devices
 
-![device_comp](https://github.com/user-attachments/assets/acf1c5bc-cff9-43cd-9ca1-4333886b2949)
+
+![device_comp_v2](https://github.com/user-attachments/assets/cc5e204b-26ad-4f38-8ce5-c88267ac2d8b)
